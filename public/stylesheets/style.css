@@ -1,0 +1,21 @@
+body {
+  padding-left: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.control {
+  margin: 20px 20px 0px 0px;
+}
+
+.volume {
+  font-size: 40px;
+}
+
+.up, .down {
+  padding-left: 40px;
+  padding-right: 40px;
+}
